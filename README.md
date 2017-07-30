@@ -22,7 +22,7 @@ BabelChat is built upon:
  * Install [MongoDB](https://www.mongodb.com/).
  * Retrieve the repository and install dependencies.
 ```bash
-$ git clone git@github.com:panteha/BabelChat.git
+$ git clone https://github.com/elenamorton/BabelChat.git
 $ cd BabelChat
 $ npm install
 ```
@@ -42,7 +42,7 @@ $ webpack
 ## Running the app locally
 ![BabelChat](public/images/sign-in.png "Sign in page")
 ```bash
-$ npm start
+$ webpack; npm start
 ```
 then visit `http://localhost:3000/`
 
