@@ -3,7 +3,9 @@
 Instant multi-lingual messaging.
 It allows people to talk to each other in a variety of languages, each user
 experiencing the same conversation in their own language.
+<br/>
 ![Chatting](public/images/chat.png "Chat page")
+<br/>
 BabelChat is built upon:
  * [Google Translate API for Node.js](https://github.com/Localize/node-google-translate)
  * [Node.js](https://nodejs.org/)
@@ -61,6 +63,7 @@ To set up the Google Translate API and MongoDB for Heroku
 $ heroku config:set TRANSLATE_KEY=$TRANSLATE_KEY
 $ heroku config:set DATABASE_DEVELOPMENT=mongodb://<username>:<password>@<hostname>.mlab.com:<port>/babelchat
 ```
+The application is available on Heruku at `http://babelchat-makers.herokuapp.com`
 
 ## Contributors
 
