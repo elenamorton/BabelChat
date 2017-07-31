@@ -3,9 +3,11 @@
 Instant multi-lingual messaging.
 It allows people to talk to each other in a variety of languages, each user
 experiencing the same conversation in their own language.
-<br/>
+
+
 ![Chatting](public/images/chat.png "Chat page")
-<br/>
+
+
 BabelChat is built upon:
  * [Google Translate API for Node.js](https://github.com/Localize/node-google-translate)
  * [Node.js](https://nodejs.org/)
