@@ -65,7 +65,7 @@ To set up the Google Translate API and MongoDB for Heroku
 $ heroku config:set TRANSLATE_KEY=$TRANSLATE_KEY
 $ heroku config:set DATABASE_DEVELOPMENT=mongodb://<username>:<password>@<hostname>.mlab.com:<port>/babelchat
 ```
-The application is available on Heruku at `http://babelchat-makers.herokuapp.com`
+The application is available on Heroku at `http://babelchat-makers.herokuapp.com`
 
 ## Contributors
 
