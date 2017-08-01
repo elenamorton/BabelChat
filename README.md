@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/elenamorton/BabelChat.svg?branch=master)](https://travis-ci.org/elenamorton/BabelChat)
+[![CodeClimate](https://codeclimate.com/github/elenamorton/BabelChat/badges/gpa.svg)](https://codeclimate.com/github/elenamorton/BabelChat)
+[![Test Coverage](https://codeclimate.com/github/elenamorton/BabelChat/badges/coverage.svg)](https://codeclimate.com/github/elenamorton/BabelChat/coverage)
+
 # BabelChat
 
 Instant multi-lingual messaging.
