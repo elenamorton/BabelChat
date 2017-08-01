@@ -58,7 +58,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/panteha/BabelChat.git"
+    "url": "git+https://github.com/elenamorton/BabelChat.git"
   },
   "babel": {
     "presets": [
@@ -71,5 +71,5 @@
   "bugs": {
     "url": "https://github.com/panteha/BabelChat/issues"
   },
-  "homepage": "https://github.com/panteha/BabelChat#readme"
+  "homepage": "https://github.com/elenamorton/BabelChat#readme"
 }
